@@ -1,0 +1,101 @@
+Artist,Venue,Artist_Popularity,Genre_Popularity,Ticket_Price,Venue_Capacity,Predicted_Attendance
+Russell Peters,"Sardar Vallabhbhai Patel Stadium, Ahmedabad",58,79,1376,15000,8589
+Katy Perry,"Sardar Vallabhbhai Patel Stadium, Ahmedabad",55,82,1491,5000,2799
+Linkin Park,"DY Patil Stadium, Mumbai",65,77,4642,15000,5609
+Kishore Kumar,"Shree Shiv Chhatrapati Sports Complex, Pune",78,96,4864,20000,8751
+Taylor Swift,"EKA Arena, Ahmedabad",52,82,4965,10000,3222
+Russell Peters,"DY Patil Stadium, Mumbai",69,54,1135,5000,2792
+Guns N' Roses,"Gachibowli Stadium, Hyderabad",85,97,2193,25000,17526
+Justin Bieber,"EKA Arena, Ahmedabad",68,68,2182,20000,10632
+John Mayer,"Jawaharlal Nehru Stadium, Delhi",75,53,619,5000,3105
+John Mayer,"EKA Arena, Ahmedabad",52,84,1330,25000,14045
+Adele,"Shree Shiv Chhatrapati Sports Complex, Pune",68,98,4175,5000,2330
+Trevor Noah,"EKA Arena, Ahmedabad",69,66,1869,15000,8269
+Hasan Minhaj,"Jawaharlal Nehru Stadium, Delhi",81,93,1240,5000,3758
+Adele,"Shree Shiv Chhatrapati Sports Complex, Pune",56,77,616,5000,3021
+Neha Kakkar,"JRD Tata Sports Complex, Jamshedpur",90,79,3338,5000,2851
+Beyoncé,"Sardar Vallabhbhai Patel Stadium, Ahmedabad",82,78,1650,20000,13426
+Shreya Ghoshal,"Sardar Vallabhbhai Patel Stadium, Ahmedabad",89,95,2431,5000,3459
+Adele,"Kanteerava Stadium, Bangalore",88,55,1512,25000,15872
+The Weeknd,"JRD Tata Sports Complex, Jamshedpur",67,84,2164,15000,8674
+Ellen DeGeneres,"JRD Tata Sports Complex, Jamshedpur",89,90,1581,15000,11289
+Shreya Ghoshal,"EKA Arena, Ahmedabad",50,86,1012,5000,2894
+Taylor Swift,"Sardar Vallabhbhai Patel Stadium, Ahmedabad",60,73,3349,20000,8672
+Kenny Sebastian,"Jawaharlal Nehru Stadium, Delhi",77,78,1059,20000,13840
+Ed Sheeran,"Indira Gandhi Athletic Stadium, Guwahati",74,98,4172,25000,12180
+Beyoncé,"Indira Gandhi Athletic Stadium, Guwahati",99,95,3843,5000,2998
+Rihanna,"Shree Shiv Chhatrapati Sports Complex, Pune",72,80,4570,15000,6125
+Lady Gaga,"Sardar Vallabhbhai Patel Stadium, Ahmedabad",80,84,1970,20000,13104
+Drake,"Sardar Vallabhbhai Patel Stadium, Ahmedabad",79,82,1080,5000,3576
+Red Hot Chili Peppers,"Indira Gandhi Athletic Stadium, Guwahati",91,70,2794,20000,11904
+Linkin Park,"Sardar Vallabhbhai Patel Stadium, Ahmedabad",84,81,3647,20000,10520
+Neha Kakkar,"EKA Arena, Ahmedabad",56,72,4749,15000,4914
+Kevin Hart,"Gachibowli Stadium, Hyderabad",65,82,2179,10000,5615
+Lata Mangeshkar,"Wankhede Stadium, Mumbai",75,52,4006,25000,9860
+Taylor Swift,"JRD Tata Sports Complex, Jamshedpur",97,67,3244,25000,14356
+A.R. Rahman,"Kanteerava Stadium, Bangalore",98,74,3856,15000,8146
+Russell Peters,"Shree Shiv Chhatrapati Sports Complex, Pune",51,91,4545,20000,7309
+Metallica,"Gachibowli Stadium, Hyderabad",50,80,1743,5000,2559
+Armaan Malik,"Indira Gandhi Athletic Stadium, Guwahati",97,52,3618,20000,10083
+Rihanna,"JRD Tata Sports Complex, Jamshedpur",61,89,2641,15000,7969
+Coldplay,"Sardar Vallabhbhai Patel Stadium, Ahmedabad",54,95,3559,25000,11336
+A.R. Rahman,"Kanteerava Stadium, Bangalore",86,73,3459,20000,10570
+Bruno Mars,"Sardar Vallabhbhai Patel Stadium, Ahmedabad",81,99,2765,25000,15953
+Shreya Ghoshal,"Jawaharlal Nehru Stadium, Delhi",58,81,2979,5000,2359
+Queen,"Jawaharlal Nehru Stadium, Delhi",90,96,2135,25000,18168
+Drake,"Kanteerava Stadium, Bangalore",84,71,2257,25000,15253
+Lata Mangeshkar,"Kanteerava Stadium, Bangalore",68,72,4952,10000,3513
+Kishore Kumar,"Indira Gandhi Athletic Stadium, Guwahati",97,51,2570,10000,5839
+Zakir Khan,"Kanteerava Stadium, Bangalore",65,76,3349,10000,4615
+Coldplay,"EKA Arena, Ahmedabad",52,91,3751,25000,10560
+Foo Fighters,"Sardar Vallabhbhai Patel Stadium, Ahmedabad",69,51,4230,15000,5348
+Trevor Noah,"Gachibowli Stadium, Hyderabad",73,75,2989,25000,12935
+Hasan Minhaj,"DY Patil Stadium, Mumbai",82,66,2131,15000,8923
+Armaan Malik,"Kanteerava Stadium, Bangalore",73,89,3316,15000,7960
+Shreya Ghoshal,"Shree Shiv Chhatrapati Sports Complex, Pune",60,82,1515,10000,5837
+Sonu Nigam,"Jawaharlal Nehru Stadium, Delhi",98,58,1848,20000,13369
+Armaan Malik,"EKA Arena, Ahmedabad",57,92,3587,5000,2276
+Katy Perry,"JRD Tata Sports Complex, Jamshedpur",85,97,3339,10000,5981
+Metallica,"DY Patil Stadium, Mumbai",87,88,835,10000,8010
+Bruno Mars,"Gachibowli Stadium, Hyderabad",89,78,1395,20000,14559
+Biswa Kalyan Rath,"DY Patil Stadium, Mumbai",69,91,4046,5000,2316
+Diljit Dosanjh,"Kanteerava Stadium, Bangalore",84,75,1351,25000,17384
+Trevor Noah,"Indira Gandhi Athletic Stadium, Guwahati",97,84,2187,25000,17930
+Coldplay,"Jawaharlal Nehru Stadium, Delhi",74,99,2431,10000,6357
+Vir Das,"Jawaharlal Nehru Stadium, Delhi",84,74,4246,5000,2301
+Linkin Park,"JRD Tata Sports Complex, Jamshedpur",74,73,2927,10000,5205
+Kishore Kumar,"Indira Gandhi Athletic Stadium, Guwahati",78,62,2068,15000,8518
+Coldplay,"Sardar Vallabhbhai Patel Stadium, Ahmedabad",67,56,4500,10000,3443
+Justin Bieber,"Wankhede Stadium, Mumbai",95,85,3238,10000,6153
+Hasan Minhaj,"EKA Arena, Ahmedabad",67,94,3998,25000,11673
+Taylor Swift,"Jawaharlal Nehru Stadium, Delhi",51,69,4413,25000,8129
+Red Hot Chili Peppers,"Shree Shiv Chhatrapati Sports Complex, Pune",84,50,1566,25000,14843
+Metallica,"Jawaharlal Nehru Stadium, Delhi",65,57,4880,15000,4746
+Adele,"DY Patil Stadium, Mumbai",90,95,2944,25000,16228
+Bruno Mars,"Jawaharlal Nehru Stadium, Delhi",85,65,4607,5000,2076
+Rihanna,"Jawaharlal Nehru Stadium, Delhi",82,63,3873,20000,9116
+Katy Perry,"Wankhede Stadium, Mumbai",53,61,4469,5000,1554
+Linkin Park,"Wankhede Stadium, Mumbai",82,72,3046,5000,2712
+Arijit Singh,"Gachibowli Stadium, Hyderabad",63,64,1253,25000,13863
+Rihanna,"Sardar Vallabhbhai Patel Stadium, Ahmedabad",70,77,2582,20000,10800
+Lata Mangeshkar,"Shree Shiv Chhatrapati Sports Complex, Pune",97,83,3274,20000,12295
+A.R. Rahman,"Jawaharlal Nehru Stadium, Delhi",69,51,3396,20000,8162
+Adele,"Jawaharlal Nehru Stadium, Delhi",57,81,4685,15000,5309
+Arijit Singh,"EKA Arena, Ahmedabad",56,72,1275,25000,13611
+Kishore Kumar,"Wankhede Stadium, Mumbai",52,71,2125,20000,9387
+Adele,"Shree Shiv Chhatrapati Sports Complex, Pune",66,74,3569,15000,6675
+John Mayer,"JRD Tata Sports Complex, Jamshedpur",82,71,917,10000,7048
+Foo Fighters,"Gachibowli Stadium, Hyderabad",97,71,614,10000,8128
+Kishore Kumar,"Sardar Vallabhbhai Patel Stadium, Ahmedabad",61,98,1116,15000,10101
+Zakir Khan,"Indira Gandhi Athletic Stadium, Guwahati",71,91,4474,15000,6548
+Zakir Khan,"Sardar Vallabhbhai Patel Stadium, Ahmedabad",71,55,3767,25000,10066
+Kenny Sebastian,"DY Patil Stadium, Mumbai",95,64,1325,25000,17913
+Sunidhi Chauhan,"Jawaharlal Nehru Stadium, Delhi",79,92,2016,10000,6722
+Russell Peters,"Gachibowli Stadium, Hyderabad",87,86,3646,20000,11005
+Drake,"DY Patil Stadium, Mumbai",87,82,912,10000,7724
+Lata Mangeshkar,"Shree Shiv Chhatrapati Sports Complex, Pune",94,57,1228,20000,13894
+A.R. Rahman,"Indira Gandhi Athletic Stadium, Guwahati",57,93,3848,20000,8785
+Kishore Kumar,"Wankhede Stadium, Mumbai",76,93,3308,25000,13852
+Ed Sheeran,"Gachibowli Stadium, Hyderabad",76,54,1175,5000,2965
+Biswa Kalyan Rath,"Gachibowli Stadium, Hyderabad",83,88,3965,5000,2564
+Kenny Sebastian,"Jawaharlal Nehru Stadium, Delhi",70,53,3004,15000,6632
